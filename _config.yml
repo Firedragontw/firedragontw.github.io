@@ -102,5 +102,5 @@ theme: particlex
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://github.com/Firedragontw/Firedragontw.github.io.git
+  repository: https://github.com/Firedragontw/Firedragontw.github.io
   branch: github-pages
